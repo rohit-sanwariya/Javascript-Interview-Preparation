@@ -17,6 +17,9 @@ function Person (name){
     this.age = 26;
 }
 
+
+
+
 const rohit = new Person("rohit");
 console.log(rohit);
 //Person { name: 'rohit', age: 26 }
