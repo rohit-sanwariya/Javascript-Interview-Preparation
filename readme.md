@@ -1,4 +1,4 @@
-List Of Questions
+# List Of Questions
 - Reverse a string.
 - Find the first non-repeated character in a string.
 - Check if two strings are anagrams of each other.
